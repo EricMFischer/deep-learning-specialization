@@ -32,9 +32,8 @@ This includes all the programming assignments from the [Deep Learning Specializa
   - Week 2 - [Transfer Learning with MobileNet](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202/Transfer%20Learning%20with%20MobileNet/Transfer_learning_with_MobileNet_v1.ipynb)
   - Week 3 - [Car Detection with YOLO](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203/Car%20Detection%20with%20YOLO/Autonomous_driving_application_Car_detection.ipynb)
   - Week 3 - [Image Segmentation with U-Net](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203/Image%20Segmentation%20with%20U-Net/Image_segmentation_Unet_v2.ipynb)
-  - Week 4 - [Face Recognition](https://nbviewer.org/github/)
-  - Week 4 - [Art Generation with Neural Style Transfer](https://nbviewer.org/github/)
-
+  - Week 4 - [Face Recognition](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition.ipynb)
+  - Week 4 - [Art Generation with Neural Style Transfer](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Art%20Generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
 ### Course 5: Sequence Models
 
   - Week 1 - [Building your Recurrent Neural Network - Step by Step](https://nbviewer.org/github/)
