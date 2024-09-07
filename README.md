@@ -37,7 +37,7 @@ This includes all the programming assignments from the [Deep Learning Specializa
 ### Course 5: Sequence Models
 
   - Week 1 - [Building your Recurrent Neural Network - Step by Step](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
-  - Week 1 - [Dinosaur Island - Character-Level Language Modeling](https://nbviewer.org/github/)
+  - Week 1 - [Dinosaur Island - Character-Level Language Modeling](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Dinosaur%20Island%20-%20Character-Level%20Language%20Modeling/Dinosaurus_Island_Character_level_language_model.ipynb)
   - Week 1 - [Jazz Improvisation with LSTM](https://nbviewer.org/github/)
   - Week 2 - [Operations on Word Vectors - Debiasing](https://nbviewer.org/github/)
   - Week 2 - [Emojify](https://nbviewer.org/github/)
