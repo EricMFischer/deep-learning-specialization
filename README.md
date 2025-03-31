@@ -1,6 +1,13 @@
-## Deep Learning Specialization on Coursera (by DeepLearning.AI)
+## Deep Learning Specialization on Coursera (by DeepLearning.AI) (Updated November 2025)
 
 This includes all the programming assignments from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera, offered by DeepLearning.AI and instructed by [Andrew Ng](http://www.andrewng.org/).
+
+Courses in Deep Learning specialization:
+- Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+- Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+- Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 ## Programming Assignments
 
@@ -22,7 +29,7 @@ This includes all the programming assignments from the [Deep Learning Specializa
 
 ### Course 3: Structuring Machine Learning Projects
 
-  - This course does not have any programming assignments.
+  - This course did not have any programming assignments.
 
 ### Course 4: Convolutional Neural Networks
 
@@ -34,6 +41,7 @@ This includes all the programming assignments from the [Deep Learning Specializa
   - Week 3 - [Image Segmentation with U-Net](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203/Image%20Segmentation%20with%20U-Net/Image_segmentation_Unet_v2.ipynb)
   - Week 4 - [Face Recognition](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition.ipynb)
   - Week 4 - [Art Generation with Neural Style Transfer](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204/Art%20Generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
+
 ### Course 5: Sequence Models
 
   - Week 1 - [Building your Recurrent Neural Network - Step by Step](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%201/Building%20your%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
@@ -45,8 +53,8 @@ This includes all the programming assignments from the [Deep Learning Specializa
   - Week 3 - [Trigger Word Detection](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%203/Trigger%20Word%20Detection/Trigger_word_detection_v2a.ipynb)
   - Week 4 - [Transformers Architecture with TensorFlow](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformers%20Architecture%20with%20TensorFlow/C5_W4_A1_Transformer_Subclass_v1.ipynb)
   - Week 4 - [Transformer Pre-Processing](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Pre-Processing/Embedding_plus_Positional_encoding.ipynb)
-  - Week 4 - [Transformer Network Application: Named-Entity Recognition](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Network%20Application%3A%20Named-Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)
-  - Week 4 - [Transformer Network Application: Question Answering](https://nbviewer.org/github/)
+  - Week 4 - [Transformer Network Application: Named-Entity Recognition](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Network%20Application%20-%20Named-Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)
+  - Week 4 - [Transformer Network Application: Question Answering](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Network%20Application%20-%20Question%20Answering/QA_transformer.ipynb)
 
 ## Setup
 
