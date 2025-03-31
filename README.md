@@ -45,7 +45,7 @@ This includes all the programming assignments from the [Deep Learning Specializa
   - Week 3 - [Trigger Word Detection](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%203/Trigger%20Word%20Detection/Trigger_word_detection_v2a.ipynb)
   - Week 4 - [Transformers Architecture with TensorFlow](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformers%20Architecture%20with%20TensorFlow/C5_W4_A1_Transformer_Subclass_v1.ipynb)
   - Week 4 - [Transformer Pre-Processing](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Pre-Processing/Embedding_plus_Positional_encoding.ipynb)
-  - Week 4 - [Transformer Network Application: Named-Entity Recognition](https://nbviewer.org/github/)
+  - Week 4 - [Transformer Network Application: Named-Entity Recognition](https://nbviewer.org/github/EricMFischer/deep-learning-specialization/blob/master/Course%205%20-%20Sequence%20Models/Week%204/Transformer%20Network%20Application%3A%20Named-Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)
   - Week 4 - [Transformer Network Application: Question Answering](https://nbviewer.org/github/)
 
 ## Setup
